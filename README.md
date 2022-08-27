@@ -10,7 +10,7 @@ The gameplay is basically a training shoot with score for every target killed
 
 
 
-(https://i.ibb.co/XszFpDQ/InGame.png)
+[DemoImage](https://i.ibb.co/XszFpDQ/InGame.png)
 
 
 
